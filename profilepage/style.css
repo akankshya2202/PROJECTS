@@ -1,0 +1,18 @@
+
+*{
+    box-sizing: border-box;
+    margin:opx;
+    padding: auto;
+}
+body{
+    font-family:'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-weight: 700;
+}
+div{
+    display:block;
+    unicode-bidi:isolate;
+}
+.img{
+    box-shadow: o 20px 20px 20px black;
+}

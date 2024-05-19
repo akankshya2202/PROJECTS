@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 100vh ;
+    background-color: aquamarine;
+       
+}
+    
+#counter{
+    background-color:cadetblue;
+    height: 50vh;
+    width: 50vw;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+p{
+    font-size: 40px;
+}
+button{
+    background-color: black;
+    color: whitesmoke;
+}
